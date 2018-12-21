@@ -1,0 +1,16 @@
+PODS:
+  - LLCategory (1.0)
+
+DEPENDENCIES:
+  - LLCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LLCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLCategory: c676302d35f58747ec4d1102990b0a00ae5f0451
+
+PODFILE CHECKSUM: 7fc8661d1192c99387d372199f4a582a26dc00a6
+
+COCOAPODS: 1.6.0.beta.2

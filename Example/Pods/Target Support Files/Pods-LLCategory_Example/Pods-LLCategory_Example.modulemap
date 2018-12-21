@@ -1,0 +1,6 @@
+framework module Pods_LLCategory_Example {
+  umbrella header "Pods-LLCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
