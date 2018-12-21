@@ -22,7 +22,7 @@ pod 'LLCategory'
 
 ## Author
 
-zl645420646, 1804094055@qq.com
+zhanglei
 
 ## License
 
